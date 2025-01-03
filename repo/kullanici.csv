@@ -1,0 +1,4 @@
+id,username,lastname,role,password,situation
+1,admin,admin,admin,123,active
+2,Ali,Eren,user,456,active
+3,AA,BB,admin,146,active
