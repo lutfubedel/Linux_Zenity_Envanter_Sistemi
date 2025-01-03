@@ -21,24 +21,30 @@ Bu proje, Zenity araçlarını kullanarak basit bir envanter yönetim sistemi ge
   - Kritik işlemler için onay mekanizması.
   - Şifre yönetimi ve kullanıcı hesap kilitleme.
 
-**Kullanım**
-**Ana Menü**
-Ürün Ekle: Yeni ürün bilgilerini girin ve sisteme ekleyin.
-Ürün Listele: Mevcut ürünleri görüntüleyin.
-Ürün Güncelle: Ürün bilgilerini güncelleyin.
-Ürün Sil: Bir ürünü envanterden kaldırın.
-Rapor Al: Belirtilen kriterlere göre rapor oluşturun.
-Kullanıcı Yönetimi: Kullanıcı ekleyin, listeleyin, güncelleyin veya silin.
-Program Yönetimi: Disk alanını kontrol edin, yedekleme yapın veya hata kayıtlarını görüntüleyin.
+## Kullanım
 
-**Ekran Görüntüleri**
+### Ana Menü
+- **Ürün Ekle:** Yeni ürün bilgilerini girin ve sisteme ekleyin.
+- **Ürün Listele:** Mevcut ürünleri görüntüleyin.
+- **Ürün Güncelle:** Ürün bilgilerini güncelleyin.
+- **Ürün Sil:** Bir ürünü envanterden kaldırın.
+- **Rapor Al:** Belirtilen kriterlere göre rapor oluşturun.
+- **Kullanıcı Yönetimi:** Kullanıcı ekleyin, listeleyin, güncelleyin veya silin.
+- **Program Yönetimi:** Disk alanını kontrol edin, yedekleme yapın veya hata kayıtlarını görüntüleyin.
+
+### Ekran Görüntüleri
 Projenin kullanımına dair bazı ekran görüntüleri aşağıda yer almaktadır:
 
-Ana Menü:
+#### Ana Menü:
+![Ana Menü](./screenshots/ana_menu.png)
 
-Ürün Ekleme:
+#### Ürün Ekleme:
+![Ürün Ekleme](./screenshots/urun_ekleme.png)
 
-Hata Mesajları:
+#### Hata Mesajları:
+![Hata Mesajları](./screenshots/hata_mesaji.png)
 
-Kullanım Videosu
-Proje Kullanım Videosu bağlantısına tıklayarak projenin detaylı kullanımını izleyebilirsiniz.
+## Kullanım Videosu
+
+Proje kullanım videosunu aşağıdaki bağlantıya tıklayarak izleyebilirsiniz:  
+[Proje Kullanım Videosu](https://youtu.be/ornekvideo)
