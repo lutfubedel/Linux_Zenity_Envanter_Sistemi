@@ -35,14 +35,23 @@ Bu proje, Zenity araçlarını kullanarak basit bir envanter yönetim sistemi ge
 ### Ekran Görüntüleri
 Projenin kullanımına dair bazı ekran görüntüleri aşağıda yer almaktadır:
 
+#### Kullanıcı Girişi:
+![Ana Menü](./images/ss_1.png)
+
 #### Ana Menü:
-![Ana Menü](./screenshots/ana_menu.png)
+![Ürün Ekleme](./images/ss_2.png)
 
 #### Ürün Ekleme:
-![Ürün Ekleme](./screenshots/urun_ekleme.png)
+![Hata Mesajları](./images/ss_3.png)
 
-#### Hata Mesajları:
-![Hata Mesajları](./screenshots/hata_mesaji.png)
+#### Hata Mesaj Örneği:
+![Hata Mesajları](./images/ss_4.png)
+
+#### Log Listesi Görünümü:
+![Hata Mesajları](./images/ss_5.png)
+
+#### Düşük Stoklu Ürünler:
+![Hata Mesajları](./images/ss_6.png)
 
 ## Kullanım Videosu
 
