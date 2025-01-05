@@ -56,4 +56,4 @@ Projenin kullanımına dair bazı ekran görüntüleri aşağıda yer almaktadı
 ## Kullanım Videosu
 
 Proje kullanım videosunu aşağıdaki bağlantıya tıklayarak izleyebilirsiniz:  
-[Proje Kullanım Videosu](https://youtu.be/ornekvideo)
+[Proje Kullanım Videosu](https://youtu.be/qzfu569VkOs)
