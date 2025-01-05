@@ -44,7 +44,7 @@ while true; do
         # Hesap blokluysa çıkış yap
         if [ "$user_status" == "blocked" ]; then
             zenity --error --title="Hata" --text="Hesabınız bloke edilmiştir."
-            exit 1
+            continue
         fi
 
         # Şifre kontrolü

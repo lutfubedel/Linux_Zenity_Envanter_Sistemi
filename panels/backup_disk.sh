@@ -1,7 +1,7 @@
 
 # Kaynak dosyaları ve hedef dizini tanımlayın
-user_file="/home/btu59030/Masaüstü/Odev3/repo/kullanici.csv"
-depo_file="/home/btu59030/Masaüstü/Odev3/repo/depo.csv"
+user_file="/home/btu59030/Masaüstü/Odev3/Linux_Zenity_Envanter_Sistemi/repo/kullanici.csv"
+depo_file="/home/btu59030/Masaüstü/Odev3/Linux_Zenity_Envanter_Sistemi/repo/depo.csv"
 BACKUP_DIR="/home/btu59030/Masaüstü/Yedekler"
 
 # Hedef dizin var mı, kontrol edin; yoksa oluşturun
