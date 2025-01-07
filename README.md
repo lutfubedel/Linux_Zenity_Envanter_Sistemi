@@ -57,3 +57,8 @@ Projenin kullanımına dair bazı ekran görüntüleri aşağıda yer almaktadı
 
 Proje kullanım videosunu aşağıdaki bağlantıya tıklayarak izleyebilirsiniz:  
 [Proje Kullanım Videosu](https://youtu.be/qzfu569VkOs)
+
+## Projenin Github Sayfası
+
+Projenin kaynak kodlarına aşağıdaki bağlantıdan ulaşabilirsiniz:
+[Proje Github Sayfası](https://github.com/lutfubedel/Linux_Zenity_Envanter_Sistemi)
